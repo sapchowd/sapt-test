@@ -9,7 +9,7 @@
       "type": "workflow",
       "folder": "/",
       "document": {
-        "name": "Single Address Reputation Check",
+        "name": "Single Address Reputation Check-test-sapt",
         "tasks": {
           "3401": {
             "name": "newVariable",
